@@ -1,4 +1,4 @@
-#JavaScript 7 Syntax and Operators.
+# JavaScript 7 Syntax and Operators.
 
 1. First, you will learn all about the switch statement and the difference between for/in and for/of.
 ```JavaScript
